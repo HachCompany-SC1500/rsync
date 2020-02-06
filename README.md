@@ -1,2 +1,0 @@
-# rsync
-remote file synchronzation
